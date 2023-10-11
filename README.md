@@ -1,7 +1,5 @@
 ## X-Beat | React eCommerce Web App
 
-### [Demo Link](https://x-beat.netlify.app/) 🔗
-
 Audio Store eCommerce Website, built with **React JS**. <br/>
 State management using Context API.
 <br/>
@@ -33,7 +31,7 @@ State management using Context API.
 
 ## Author:
 
-- **Gulshan Songara** - **[Portfolio Website](https://gulshansongara.netlify.app)**, **[Linkedin](https://www.linkedin.com/in/gulshan-songara/)**
+- **ApexDev** - **[Portfolio Website](https://company-portfolio-eosin.vercel.app)**, **[Linkedin](https://www.linkedin.com/company/apexdev/)**
 
 <br/>
 
@@ -48,7 +46,3 @@ State management using Context API.
 #### `npm run eject`
 
 <br/>
-
-## License:
-
-This project is licensed under the  **GPL-3.0 License** - see the [LICENSE](LICENSE.md) file for details.
